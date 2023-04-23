@@ -21,7 +21,6 @@ export class ErrorBoundary extends Component {
       })
       return <div className="container-fluid">
         <h1>Une erreur s'est produite.</h1>
-        <p><a href='https://twitter.com/notTrAsKiN' className='link-primary'>Contactez moi</a> si le problème persiste.</p>
       </div>
     }
     return this.props.children

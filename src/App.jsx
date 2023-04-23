@@ -210,6 +210,6 @@ class App extends Component {
 const root = createRoot(document.querySelector('#root'))
 root.render(
   <ErrorBoundary>
-    <App channel='fefegg' />
+    <App channel='krl_stream' />
   </ErrorBoundary>
 )

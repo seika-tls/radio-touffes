@@ -19,7 +19,7 @@ Encore
   .enableIntegrityHashes(Encore.isProduction())
 
 if (Encore.isProduction()) {
-  Encore.setPublicPath('/owl-buvette/build/')
+  Encore.setPublicPath('/radio-touffes/build/')
   Encore.setManifestKeyPrefix('build/')
 }
 
