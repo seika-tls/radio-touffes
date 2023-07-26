@@ -35,9 +35,9 @@ export class PlayersCommands extends Component {
         <button onClick={this.props.handleSwitchPlayer} type='button' className='btn btn-sm btn-link hide-on-mobile mx-1' data-bs-toggle='tooltip' data-bs-placement='bottom' title='Inverser les deux lecteurs'>
           <i className='bi bi-arrow-repeat' />
         </button>
-        <div className='btn-group dropup mx-1' data-bs-toggle='tooltip' data-bs-placement='bottom' title='Changer la langue du cast'>
+        <div className='btn-group dropup mx-1' data-bs-toggle='tooltip' data-bs-placement='bottom' title='Changer la chaine du cast'>
           <button type='button' className='btn btn-sm btn-link dropdown-toggle' data-bs-toggle='dropdown' aria-expanded='false'>
-            <i className='bi bi-chat-dots' />
+            <i className='bi bi-twitch' />
           </button>
           <ul id='casts' className='dropdown-menu'>
             {

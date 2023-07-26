@@ -1,15 +1,15 @@
 [
   {
-    "hash": "#cct_2",
-    "name": "CCT 2",
+    "hash": "#eslcs",
+    "name": "ESLCS",
     "disabled": false,
-    "url": "https://player.twitch.tv/?channel=cct_en2&parent=seika-tls.github.io&parent=radio-touffes.local"
+    "url": "https://player.twitch.tv/?channel=eslcs&parent=seika-tls.github.io&parent=radio-touffes.local"
   },
   {
-    "hash": "#esl_csgo",
-    "name": "ESL_CSGO",
+    "hash": "#eslcsb",
+    "name": "ESLCSb",
     "disabled": false,
-    "url": "https://player.twitch.tv/?channel=esl_csgo&parent=seika-tls.github.io&parent=radio-touffes.local"
+    "url": "https://player.twitch.tv/?channel=eslcsb&parent=seika-tls.github.io&parent=radio-touffes.local"
   },
   {
     "hash": "#1pvcs",
